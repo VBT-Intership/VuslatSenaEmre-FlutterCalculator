@@ -1,4 +1,4 @@
-# calculator
+# Simple Calculator
 
 Calcutolator application in flutter
 
